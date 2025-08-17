@@ -1,2 +1,2 @@
 "inicio do exerc3" 
-"numero dois" 
+"numero dois e numero dois" 
